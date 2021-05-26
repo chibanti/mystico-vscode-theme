@@ -1,21 +1,26 @@
 {
-    "name": "mystico",
-    "displayName": "Mystico",
-    "description": "Mystico color theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Mystico",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Mystico-color-theme.json"
-            }
-        ]
-    }
+  "name": "mystico",
+  "displayName": "Mystico",
+  "description": "Mystico color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#62adc4",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mystico",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystico-color-theme.json"
+      }
+    ]
+  }
 }
