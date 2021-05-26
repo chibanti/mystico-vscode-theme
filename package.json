@@ -3,13 +3,14 @@
   "displayName": "Mystico",
   "description": "Mystico color theme",
   "version": "0.0.1",
+  "publisher": "chibanti",
   "engines": {
     "vscode": "^1.55.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "images/icon.png",
+  "icon": "images/mystico.png",
   "galleryBanner": {
     "color": "#62adc4",
     "theme": "dark"
