@@ -1,7 +1,7 @@
 {
   "name": "mystico",
   "displayName": "Mystico",
-  "description": "Mystico color theme",
+  "description": "Mystico color theme for Visual Studio Code",
   "version": "0.0.1",
   "publisher": "Chibantichic",
   "engines": {
@@ -32,5 +32,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/chibanti/mystico-vscode-theme.git"
+  },
+  "__metadata": {
+    "id": "b8b09473-b963-43b8-b987-5c58d9e9d6d8",
+    "publisherId": "959ed040-f750-4c6a-93aa-1a28d810ffd5",
+    "publisherDisplayName": "Chibantichic",
+    "installedTimestamp": 1622061733634
   }
 }
