@@ -2,7 +2,7 @@
   "name": "mystico-forest-and-ocean",
   "displayName": "Mystico - forest and ocean",
   "description": "Mystico color theme for Visual Studio Code",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "Chibantichic",
   "engines": {
     "vscode": "^1.55.0"
