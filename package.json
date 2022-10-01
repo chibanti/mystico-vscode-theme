@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mystico forest and ocean",
+        "label": "Mystico - forest and ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/Mystico-color-theme.json"
       }
