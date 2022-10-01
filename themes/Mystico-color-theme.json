@@ -1,5 +1,5 @@
 {
-  "name": "Mystico",
+  "name": "Mystico - Forest & Ocean",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "normal",
         "foreground": "#8cd8ea"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "normal",
         "foreground": "#cedb6e"
       }
     },
